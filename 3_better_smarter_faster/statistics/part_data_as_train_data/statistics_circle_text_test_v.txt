@@ -1,0 +1,5 @@
+agent_v in circle
+Avg Steps taken to catch prey: 8.260
+model accuracy (in terms of having mse): 5.000
+--- 191.64 seconds ---
+All Avg Steps taken to catch prey of agent_v: 8.260

@@ -1,0 +1,95 @@
+survey_threshold = 3
+agent5 in circle
+Capturing count: 995
+Captured count: 4005
+Capturing-to-Captured ratio: 0.248
+Hung count: 0
+Survey rate: 0.45970712560386473
+correct_prey_estimation_rate: 1.000
+correct_predator_estimation_rate: 0.578
+--- 21.67 seconds ---
+
+
+survey_threshold = 5
+agent5 in circle
+Capturing count: 1286
+Captured count: 3714
+Capturing-to-Captured ratio: 0.346
+Hung count: 0
+Survey rate: 0.2840817366922979
+correct_prey_estimation_rate: 1.000
+correct_predator_estimation_rate: 0.478
+--- 22.45 seconds ---
+
+
+survey_threshold = 7
+agent5 in circle
+Capturing count: 1707
+Captured count: 3293
+Capturing-to-Captured ratio: 0.518
+Hung count: 0
+Survey rate: 0.14905202387981367
+correct_prey_estimation_rate: 1.000
+correct_predator_estimation_rate: 0.371
+--- 24.15 seconds ---
+
+
+survey_threshold = 9
+agent5 in circle
+Capturing count: 2179
+Captured count: 2821
+Capturing-to-Captured ratio: 0.772
+Hung count: 0
+Survey rate: 0.068
+correct_prey_estimation_rate: 1.000
+correct_predator_estimation_rate: 0.316
+--- 25.96 seconds ---
+
+
+survey_threshold = 11
+agent5 in circle
+Capturing count: 3352
+Captured count: 1648
+Capturing-to-Captured ratio: 2.034
+Hung count: 0
+Survey rate: 0.014
+correct_prey_estimation_rate: 1.000
+correct_predator_estimation_rate: 0.291
+--- 23.13 seconds ---
+
+
+survey_threshold = 13
+agent5 in circle
+Capturing count: 3775
+Captured count: 1225
+Capturing-to-Captured ratio: 3.082
+Hung count: 0
+Survey rate: 0.000
+correct_prey_estimation_rate: 1.000
+correct_predator_estimation_rate: 0.292
+--- 22.80 seconds ---
+
+
+survey_threshold = 15
+agent5 in circle
+Capturing count: 3741
+Captured count: 1259
+Capturing-to-Captured ratio: 2.971
+Hung count: 0
+Survey rate: 0.000
+correct_prey_estimation_rate: 1.000
+correct_predator_estimation_rate: 0.293
+--- 22.03 seconds ---
+
+
+survey_threshold = 17
+agent5 in circle
+Capturing count: 3769
+Captured count: 1231
+Capturing-to-Captured ratio: 3.062
+Hung count: 0
+Survey rate: 0.000
+correct_prey_estimation_rate: 1.000
+correct_predator_estimation_rate: 0.291
+--- 22.06 seconds ---
+

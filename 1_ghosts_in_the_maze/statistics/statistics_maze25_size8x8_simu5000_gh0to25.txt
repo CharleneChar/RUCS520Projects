@@ -1,0 +1,320 @@
+Agent1 in maze with 0 ghosts
+Survivability: 25
+--- 0.03 seconds ---
+Agent1 in maze with 1 ghosts
+Survivability: 22
+--- 0.03 seconds ---
+Agent1 in maze with 2 ghosts
+Survivability: 16
+--- 0.03 seconds ---
+Agent1 in maze with 3 ghosts
+Survivability: 14
+--- 0.03 seconds ---
+Agent1 in maze with 4 ghosts
+Survivability: 13
+--- 0.04 seconds ---
+Agent1 in maze with 5 ghosts
+Survivability: 10
+--- 0.04 seconds ---
+Agent1 in maze with 6 ghosts
+Survivability: 9
+--- 0.04 seconds ---
+Agent1 in maze with 7 ghosts
+Survivability: 6
+--- 0.04 seconds ---
+Agent1 in maze with 8 ghosts
+Survivability: 4
+--- 0.04 seconds ---
+Agent1 in maze with 9 ghosts
+Survivability: 4
+--- 0.05 seconds ---
+Agent1 in maze with 10 ghosts
+Survivability: 2
+--- 0.05 seconds ---
+Agent1 in maze with 11 ghosts
+Survivability: 1
+--- 0.05 seconds ---
+Agent1 in maze with 12 ghosts
+Survivability: 6
+--- 0.05 seconds ---
+Agent1 in maze with 13 ghosts
+Survivability: 1
+--- 0.05 seconds ---
+Agent1 in maze with 14 ghosts
+Survivability: 1
+--- 0.05 seconds ---
+Agent1 in maze with 15 ghosts
+Survivability: 3
+--- 0.06 seconds ---
+Agent1 in maze with 16 ghosts
+Survivability: 1
+--- 0.06 seconds ---
+Agent1 in maze with 17 ghosts
+Survivability: 0
+--- 0.05 seconds ---
+Agent1 in maze with 18 ghosts
+Survivability: 1
+--- 0.05 seconds ---
+Agent1 in maze with 19 ghosts
+Survivability: 0
+--- 0.06 seconds ---
+Agent1 in maze with 20 ghosts
+Survivability: 0
+--- 0.06 seconds ---
+Agent1 in maze with 21 ghosts
+Survivability: 0
+--- 0.06 seconds ---
+Agent1 in maze with 22 ghosts
+Survivability: 0
+--- 0.06 seconds ---
+Agent1 in maze with 23 ghosts
+Survivability: 0
+--- 0.07 seconds ---
+Agent1 in maze with 24 ghosts
+Survivability: 0
+--- 0.06 seconds ---
+Agent1 in maze with 25 ghosts
+Survivability: 0
+--- 0.07 seconds ---
+Agent2 in maze with 0 ghosts
+Survivability: 25
+--- 0.03 seconds ---
+Agent2 in maze with 1 ghosts
+Survivability: 23
+--- 0.04 seconds ---
+Agent2 in maze with 2 ghosts
+Survivability: 22
+--- 0.05 seconds ---
+Agent2 in maze with 3 ghosts
+Survivability: 9
+--- 0.09 seconds ---
+Agent2 in maze with 4 ghosts
+Survivability: 11
+--- 0.07 seconds ---
+Agent2 in maze with 5 ghosts
+Survivability: 11
+--- 0.08 seconds ---
+Agent2 in maze with 6 ghosts
+Survivability: 5
+--- 0.09 seconds ---
+Agent2 in maze with 7 ghosts
+Survivability: 3
+--- 0.09 seconds ---
+Agent2 in maze with 8 ghosts
+Survivability: 5
+--- 0.09 seconds ---
+Agent2 in maze with 9 ghosts
+Survivability: 1
+--- 0.09 seconds ---
+Agent2 in maze with 10 ghosts
+Survivability: 0
+--- 0.09 seconds ---
+Agent2 in maze with 11 ghosts
+Survivability: 4
+--- 0.11 seconds ---
+Agent2 in maze with 12 ghosts
+Survivability: 0
+--- 0.09 seconds ---
+Agent2 in maze with 13 ghosts
+Survivability: 0
+--- 0.08 seconds ---
+Agent2 in maze with 14 ghosts
+Survivability: 0
+--- 0.11 seconds ---
+Agent2 in maze with 15 ghosts
+Survivability: 0
+--- 0.09 seconds ---
+Agent2 in maze with 16 ghosts
+Survivability: 0
+--- 0.09 seconds ---
+Agent2 in maze with 17 ghosts
+Survivability: 0
+--- 0.11 seconds ---
+Agent2 in maze with 18 ghosts
+Survivability: 0
+--- 0.11 seconds ---
+Agent2 in maze with 19 ghosts
+Survivability: 0
+--- 0.10 seconds ---
+Agent2 in maze with 20 ghosts
+Survivability: 0
+--- 0.08 seconds ---
+Agent2 in maze with 21 ghosts
+Survivability: 0
+--- 0.08 seconds ---
+Agent2 in maze with 22 ghosts
+Survivability: 0
+--- 0.10 seconds ---
+Agent2 in maze with 23 ghosts
+Survivability: 0
+--- 0.09 seconds ---
+Agent2 in maze with 24 ghosts
+Survivability: 0
+--- 0.09 seconds ---
+Agent2 in maze with 25 ghosts
+Survivability: 0
+--- 0.09 seconds ---
+Agent3 in maze with 0 ghosts
+Survivability: 25
+--- 3637.48 seconds ---
+Agent3 in maze with 1 ghosts
+Survivability: 19
+--- 5452.54 seconds ---
+Agent3 in maze with 2 ghosts
+Survivability: 12
+--- 6287.44 seconds ---
+Agent3 in maze with 3 ghosts
+Survivability: 10
+--- 5501.84 seconds ---
+Agent3 in maze with 4 ghosts
+Survivability: 12
+--- 4944.74 seconds ---
+Agent3 in maze with 5 ghosts
+Survivability: 8
+--- 4438.32 seconds ---
+Agent3 in maze with 6 ghosts
+Survivability: 5
+--- 4787.33 seconds ---
+Agent3 in maze with 7 ghosts
+Survivability: 5
+--- 6201.00 seconds ---
+Agent3 in maze with 8 ghosts
+Survivability: 3
+--- 4117.13 seconds ---
+Agent3 in maze with 9 ghosts
+Survivability: 2
+--- 4536.23 seconds ---
+Agent3 in maze with 10 ghosts
+Survivability: 3
+--- 4005.90 seconds ---
+Agent3 in maze with 11 ghosts
+Survivability: 3
+--- 3859.57 seconds ---
+Agent3 in maze with 12 ghosts
+Survivability: 3
+--- 4689.66 seconds ---
+Agent3 in maze with 13 ghosts
+Survivability: 0
+--- 3686.44 seconds ---
+Agent3 in maze with 14 ghosts
+Survivability: 1
+--- 2445.26 seconds ---
+Agent3 in maze with 15 ghosts
+Survivability: 0
+--- 2486.95 seconds ---
+Agent3 in maze with 16 ghosts
+Survivability: 1
+--- 2854.64 seconds ---
+Agent3 in maze with 17 ghosts
+Survivability: 0
+--- 2218.20 seconds ---
+Agent3 in maze with 18 ghosts
+Survivability: 0
+--- 2036.41 seconds ---
+Agent3 in maze with 19 ghosts
+Survivability: 0
+--- 1831.65 seconds ---
+Agent3 in maze with 20 ghosts
+Survivability: 0
+--- 2126.34 seconds ---
+Agent3 in maze with 21 ghosts
+Survivability: 0
+--- 1241.85 seconds ---
+Agent3 in maze with 22 ghosts
+Survivability: 0
+--- 2097.19 seconds ---
+Agent3 in maze with 23 ghosts
+Survivability: 0
+--- 1592.47 seconds ---
+Agent3 in maze with 24 ghosts
+Survivability: 0
+--- 1494.49 seconds ---
+Agent3 in maze with 25 ghosts
+Survivability: 0
+--- 1141.18 seconds ---
+Agent4 in maze with 0 ghosts
+Survivability: 25
+--- 0.03 seconds ---
+Agent4 in maze with 1 ghosts
+Survivability: 23
+--- 0.04 seconds ---
+Agent4 in maze with 2 ghosts
+Survivability: 21
+--- 0.05 seconds ---
+Agent4 in maze with 3 ghosts
+Survivability: 18
+--- 0.06 seconds ---
+Agent4 in maze with 4 ghosts
+Survivability: 17
+--- 0.08 seconds ---
+Agent4 in maze with 5 ghosts
+Survivability: 14
+--- 0.08 seconds ---
+Agent4 in maze with 6 ghosts
+Survivability: 12
+--- 0.10 seconds ---
+Agent4 in maze with 7 ghosts
+Survivability: 11
+--- 0.09 seconds ---
+Agent4 in maze with 8 ghosts
+Survivability: 6
+--- 0.10 seconds ---
+Agent4 in maze with 9 ghosts
+Survivability: 4
+--- 0.09 seconds ---
+Agent4 in maze with 10 ghosts
+Survivability: 6
+--- 0.10 seconds ---
+Agent4 in maze with 11 ghosts
+Survivability: 2
+--- 0.10 seconds ---
+Agent4 in maze with 12 ghosts
+Survivability: 2
+--- 0.09 seconds ---
+Agent4 in maze with 13 ghosts
+Survivability: 5
+--- 0.11 seconds ---
+Agent4 in maze with 14 ghosts
+Survivability: 1
+--- 0.10 seconds ---
+Agent4 in maze with 15 ghosts
+Survivability: 0
+--- 0.11 seconds ---
+Agent4 in maze with 16 ghosts
+Survivability: 0
+--- 0.11 seconds ---
+Agent4 in maze with 17 ghosts
+Survivability: 0
+--- 0.10 seconds ---
+Agent4 in maze with 18 ghosts
+Survivability: 0
+--- 0.10 seconds ---
+Agent4 in maze with 19 ghosts
+Survivability: 0
+--- 0.10 seconds ---
+Agent4 in maze with 20 ghosts
+Survivability: 0
+--- 0.09 seconds ---
+Agent4 in maze with 21 ghosts
+Survivability: 0
+--- 0.09 seconds ---
+Agent4 in maze with 22 ghosts
+Survivability: 0
+--- 0.09 seconds ---
+Agent4 in maze with 23 ghosts
+Survivability: 0
+--- 0.08 seconds ---
+Agent4 in maze with 24 ghosts
+Survivability: 0
+--- 0.11 seconds ---
+Agent4 in maze with 25 ghosts
+Survivability: 0
+--- 0.10 seconds ---
+all survivability of Agent1: [25, 22, 16, 14, 13, 10, 9, 6, 4, 4, 2, 1, 6, 1, 1, 3, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+all survivability of Agent2: [25, 23, 22, 9, 11, 11, 5, 3, 5, 1, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+all survivability of Agent3: [25, 19, 12, 10, 12, 8, 5, 5, 3, 2, 3, 3, 3, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+all survivability of Agent4: [25, 23, 21, 18, 17, 14, 12, 11, 6, 4, 6, 2, 2, 5, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+all hung rates of Agent1: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+all hung rates of Agent2: [0, 0, 0, 3, 1, 0, 1, 1, 2, 0, 2, 1, 1, 1, 2, 0, 1, 0, 1, 1, 0, 0, 1, 1, 0, 0]
+all hung rates of Agent3: [0, 3, 5, 2, 0, 1, 4, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+all hung rates of Agent4: [0, 0, 1, 1, 2, 2, 3, 2, 5, 0, 2, 2, 1, 1, 2, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0]

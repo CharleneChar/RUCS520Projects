@@ -1,0 +1,39 @@
+agent_u_star in circle
+Avg Steps taken to catch prey: 9.899
+--- 1.26 seconds ---
+agent1 in circle
+Avg Steps taken to catch prey: 17.629
+--- 1.88 seconds ---
+agent2 in circle
+Avg Steps taken to catch prey: 10.086
+--- 1.51 seconds ---
+agent_v in circle
+Avg Steps taken to catch prey: 8.185
+model accuracy (in terms of having mse): 5.000
+--- 200.61 seconds ---
+agent_u_partial in circle
+Avg Steps taken to catch prey: 18.535
+--- 231.49 seconds ---
+agent3 in circle
+Avg Steps taken to catch prey: 34.280
+--- 20.41 seconds ---
+agent4 in circle
+Avg Steps taken to catch prey: 27.257
+--- 18.01 seconds ---
+agent_v_partial in circle
+Avg Steps taken to catch prey: 17.443
+model accuracy (in terms of having mse): 1.067
+--- 2915.02 seconds ---
+agent_another_u_partial in circle
+Avg Steps taken to catch prey: 17.630
+model accuracy (in terms of having mse): 1.619
+--- 917.22 seconds ---
+All Avg Steps taken to catch prey of agent_u_star: 9.899
+All Avg Steps taken to catch prey of agent1: 17.629
+All Avg Steps taken to catch prey of agent2: 10.086
+All Avg Steps taken to catch prey of agent_v: 8.185
+All Avg Steps taken to catch prey of agent_u_partial: 18.535
+All Avg Steps taken to catch prey of agent3: 34.280
+All Avg Steps taken to catch prey of agent4: 27.257
+All Avg Steps taken to catch prey of agent_v_partial: 17.443
+All Avg Steps taken to catch prey of agent_another_u_partial: 17.630

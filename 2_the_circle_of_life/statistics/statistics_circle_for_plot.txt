@@ -1,0 +1,143 @@
+agent1 in circle
+Capturing count: 9915
+Captured count: 85
+Capturing-to-Captured ratio: 116.647Hung count: 0
+Survey rate: 0.000correct_prey_estimation_rate: 1.0correct_predator_estimation_rate: 1.0--- 46.82 seconds ---
+agent2 in circle
+Capturing count: 9978
+Captured count: 22
+Capturing-to-Captured ratio: 453.545Hung count: 0
+Survey rate: 0.000correct_prey_estimation_rate: 1.0correct_predator_estimation_rate: 1.0--- 14.60 seconds ---
+agent3 in circle
+Capturing count: 9859
+Captured count: 141
+Capturing-to-Captured ratio: 69.922Hung count: 0
+Survey rate: 0.000correct_prey_estimation_rate: 0.12489667476900161correct_predator_estimation_rate: 1.0--- 79.77 seconds ---
+agent4 in circle
+Capturing count: 9923
+Captured count: 77
+Capturing-to-Captured ratio: 128.870Hung count: 0
+Survey rate: 0.000correct_prey_estimation_rate: 0.08691747901945127correct_predator_estimation_rate: 1.0--- 58.62 seconds ---
+agent5 in circle
+Capturing count: 9027
+Captured count: 973
+Capturing-to-Captured ratio: 9.277Hung count: 0
+Survey rate: 0.959correct_prey_estimation_rate: 1.0correct_predator_estimation_rate: 0.7149428417018362--- 82.47 seconds ---
+agent6 in circle
+Capturing count: 9306
+Captured count: 694
+Capturing-to-Captured ratio: 13.409Hung count: 0
+Survey rate: 0.000correct_prey_estimation_rate: 1.0correct_predator_estimation_rate: 0.8326190476190476--- 32.57 seconds ---
+agent7 in circle
+Capturing count: 8291
+Captured count: 1709
+Capturing-to-Captured ratio: 4.851Hung count: 0
+Survey rate: 0.000correct_prey_estimation_rate: 0.06252472464552666correct_predator_estimation_rate: 0.7126527722834121--- 128.20 seconds ---
+agent8 in circle
+Capturing count: 8530
+Captured count: 1470
+Capturing-to-Captured ratio: 5.803Hung count: 0
+Survey rate: 0.000correct_prey_estimation_rate: 0.06099728079381738correct_predator_estimation_rate: 0.7175007155805744--- 160.96 seconds ---
+extended_agent7 in circle
+Capturing count: 5961
+Captured count: 4039
+Capturing-to-Captured ratio: 1.476Hung count: 0
+Survey rate: 0.000correct_prey_estimation_rate: 0.05614859688054529correct_predator_estimation_rate: 0.4983942231732056--- 95.43 seconds ---
+extended_agent8 in circle
+Capturing count: 6041
+Captured count: 3959
+Capturing-to-Captured ratio: 1.526Hung count: 0
+Survey rate: 0.000correct_prey_estimation_rate: 0.05603836930455636correct_predator_estimation_rate: 0.49615347721822545--- 108.71 seconds ---
+revised_extended_agent7 in circle
+Capturing count: 7298
+Captured count: 2702
+Capturing-to-Captured ratio: 2.701Hung count: 0
+Survey rate: 0.000correct_prey_estimation_rate: 0.05415917258365832correct_predator_estimation_rate: 0.5429241361076226--- 107.04 seconds ---
+revised_extended_agent8 in circle
+Capturing count: 7529
+Captured count: 2471
+Capturing-to-Captured ratio: 3.047Hung count: 0
+Survey rate: 0.000correct_prey_estimation_rate: 0.055553856660856445correct_predator_estimation_rate: 0.546565004807872--- 118.43 seconds ---
+agent9 in circle
+Capturing count: 7592
+Captured count: 2408
+Capturing-to-Captured ratio: 3.153Hung count: 0
+Survey rate: 0.000correct_prey_estimation_rate: 0.05545126833563135correct_predator_estimation_rate: 0.5431965048092098--- 146.52 seconds ---
+all capturing counts of agent1: 9915
+all capturing counts of agent2: 9978
+all capturing counts of agent3: 9859
+all capturing counts of agent4: 9923
+all capturing counts of agent5: 9027
+all capturing counts of agent6: 9306
+all capturing counts of agent7: 8291
+all capturing counts of agent8: 8530
+all capturing counts of extended_agent7: 5961
+all capturing counts of extended_agent8: 6041
+all capturing counts of revised_extended_agent7: 7298
+all capturing counts of revised_extended_agent8: 7529
+all capturing counts of agent9: 7592
+all captured counts of agent1: 85
+all captured counts of agent2: 22
+all captured counts of agent3: 141
+all captured counts of agent4: 77
+all captured counts of agent5: 973
+all captured counts of agent6: 694
+all captured counts of agent7: 1709
+all captured counts of agent8: 1470
+all captured counts of extended_agent7: 4039
+all captured counts of extended_agent8: 3959
+all captured counts of revised_extended_agent7: 2702
+all captured counts of revised_extended_agent8: 2471
+all captured counts of agent9: 2408
+all capturing-to-captured ratios of agent1: 116.647
+all capturing-to-captured ratios of agent2: 453.545
+all capturing-to-captured ratios of agent3: 69.922
+all capturing-to-captured ratios of agent4: 128.870
+all capturing-to-captured ratios of agent5: 9.277
+all capturing-to-captured ratios of agent6: 13.409
+all capturing-to-captured ratios of agent7: 4.851
+all capturing-to-captured ratios of agent8: 5.803
+all capturing-to-captured ratios of extended_agent7: 1.476
+all capturing-to-captured ratios of extended_agent8: 1.526
+all capturing-to-captured ratios of revised_extended_agent7: 2.701
+all capturing-to-captured ratios of revised_extended_agent8: 3.047
+all capturing-to-captured ratios of agent9: 3.153
+all hung counts of agent1: 0
+all hung counts of agent2: 0
+all hung counts of agent3: 0
+all hung counts of agent4: 0
+all hung counts of agent5: 0
+all hung counts of agent6: 0
+all hung counts of agent7: 0
+all hung counts of agent8: 0
+all hung counts of extended_agent7: 0
+all hung counts of extended_agent8: 0
+all hung counts of revised_extended_agent7: 0
+all hung counts of revised_extended_agent8: 0
+all hung counts of agent9: 0
+all correct prey estimation rates of agent1: 1.0
+all correct prey estimation rates of agent2: 1.0
+all correct prey estimation rates of agent3: 0.12489667476900161
+all correct prey estimation rates of agent4: 0.08691747901945127
+all correct prey estimation rates of agent5: 1.0
+all correct prey estimation rates of agent6: 1.0
+all correct prey estimation rates of agent7: 0.06252472464552666
+all correct prey estimation rates of agent8: 0.06099728079381738
+all correct prey estimation rates of extended_agent7: 0.05614859688054529
+all correct prey estimation rates of extended_agent8: 0.05603836930455636
+all correct prey estimation rates of revised_extended_agent7: 0.05415917258365832
+all correct prey estimation rates of revised_extended_agent8: 0.055553856660856445
+all correct prey estimation rates of agent9: 0.05545126833563135
+all correct predator estimation rates of agent1: 1.0
+all correct predator estimation rates of agent2: 1.0
+all correct predator estimation rates of agent3: 1.0
+all correct predator estimation rates of agent4: 1.0
+all correct predator estimation rates of agent5: 0.7149428417018362
+all correct predator estimation rates of agent6: 0.8326190476190476
+all correct predator estimation rates of agent7: 0.7126527722834121
+all correct predator estimation rates of agent8: 0.7175007155805744
+all correct predator estimation rates of extended_agent7: 0.4983942231732056
+all correct predator estimation rates of extended_agent8: 0.49615347721822545
+all correct predator estimation rates of revised_extended_agent7: 0.5429241361076226
+all correct predator estimation rates of revised_extended_agent8: 0.546565004807872
+all correct predator estimation rates of agent9: 0.5431965048092098

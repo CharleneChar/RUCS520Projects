@@ -1,0 +1,399 @@
+prey_level: 0
+predator_level: 0
+agent9 in circle
+Capturing count: 3594
+Captured count: 1324
+Capturing-to-Captured ratio: 2.715
+Hung count: 82
+correct_prey_estimation_rate: 0.055
+correct_predator_estimation_rate: 0.554
+--- 63.56 seconds ---
+
+prey_level: 0
+predator_level: 1
+agent9 in circle
+Capturing count: 3645
+Captured count: 1250
+Capturing-to-Captured ratio: 2.916
+Hung count: 105
+correct_prey_estimation_rate: 0.054
+correct_predator_estimation_rate: 0.551
+--- 65.67 seconds ---
+
+prey_level: 0
+predator_level: 2
+agent9 in circle
+Capturing count: 3695
+Captured count: 1175
+Capturing-to-Captured ratio: 3.145
+Hung count: 130
+correct_prey_estimation_rate: 0.054
+correct_predator_estimation_rate: 0.544
+--- 69.13 seconds ---
+
+prey_level: 0
+predator_level: 3
+agent9 in circle
+Capturing count: 3774
+Captured count: 1129
+Capturing-to-Captured ratio: 3.343
+Hung count: 97
+correct_prey_estimation_rate: 0.053
+correct_predator_estimation_rate: 0.550
+--- 68.83 seconds ---
+
+prey_level: 0
+predator_level: 4
+agent9 in circle
+Capturing count: 3686
+Captured count: 1199
+Capturing-to-Captured ratio: 3.074
+Hung count: 115
+correct_prey_estimation_rate: 0.053
+correct_predator_estimation_rate: 0.545
+--- 71.20 seconds ---
+
+prey_level: 0
+predator_level: 5
+agent9 in circle
+Capturing count: 3689
+Captured count: 1208
+Capturing-to-Captured ratio: 3.054
+Hung count: 103
+correct_prey_estimation_rate: 0.054
+correct_predator_estimation_rate: 0.542
+--- 70.16 seconds ---
+
+prey_level: 1
+predator_level: 0
+agent9 in circle
+Capturing count: 3605
+Captured count: 1323
+Capturing-to-Captured ratio: 2.725
+Hung count: 72
+correct_prey_estimation_rate: 0.055
+correct_predator_estimation_rate: 0.546
+--- 65.14 seconds ---
+
+prey_level: 1
+predator_level: 1
+agent9 in circle
+Capturing count: 3619
+Captured count: 1294
+Capturing-to-Captured ratio: 2.797
+Hung count: 87
+correct_prey_estimation_rate: 0.056
+correct_predator_estimation_rate: 0.547
+--- 66.52 seconds ---
+
+prey_level: 1
+predator_level: 2
+agent9 in circle
+Capturing count: 3744
+Captured count: 1164
+Capturing-to-Captured ratio: 3.216
+Hung count: 92
+correct_prey_estimation_rate: 0.056
+correct_predator_estimation_rate: 0.547
+--- 68.43 seconds ---
+
+prey_level: 1
+predator_level: 3
+agent9 in circle
+Capturing count: 3695
+Captured count: 1185
+Capturing-to-Captured ratio: 3.118
+Hung count: 120
+correct_prey_estimation_rate: 0.056
+correct_predator_estimation_rate: 0.544
+--- 71.01 seconds ---
+
+prey_level: 1
+predator_level: 4
+agent9 in circle
+Capturing count: 3741
+Captured count: 1154
+Capturing-to-Captured ratio: 3.242
+Hung count: 105
+correct_prey_estimation_rate: 0.054
+correct_predator_estimation_rate: 0.550
+--- 70.40 seconds ---
+
+prey_level: 1
+predator_level: 5
+agent9 in circle
+Capturing count: 3738
+Captured count: 1139
+Capturing-to-Captured ratio: 3.282
+Hung count: 123
+correct_prey_estimation_rate: 0.056
+correct_predator_estimation_rate: 0.549
+--- 74.26 seconds ---
+
+prey_level: 2
+predator_level: 0
+agent9 in circle
+Capturing count: 3509
+Captured count: 1406
+Capturing-to-Captured ratio: 2.496
+Hung count: 85
+correct_prey_estimation_rate: 0.054
+correct_predator_estimation_rate: 0.551
+--- 67.87 seconds ---
+
+prey_level: 2
+predator_level: 1
+agent9 in circle
+Capturing count: 3595
+Captured count: 1308
+Capturing-to-Captured ratio: 2.748
+Hung count: 97
+correct_prey_estimation_rate: 0.055
+correct_predator_estimation_rate: 0.549
+--- 70.96 seconds ---
+
+prey_level: 2
+predator_level: 2
+agent9 in circle
+Capturing count: 3704
+Captured count: 1191
+Capturing-to-Captured ratio: 3.110
+Hung count: 105
+correct_prey_estimation_rate: 0.056
+correct_predator_estimation_rate: 0.541
+--- 73.54 seconds ---
+
+prey_level: 2
+predator_level: 3
+agent9 in circle
+Capturing count: 3709
+Captured count: 1176
+Capturing-to-Captured ratio: 3.154
+Hung count: 115
+correct_prey_estimation_rate: 0.056
+correct_predator_estimation_rate: 0.546
+--- 73.52 seconds ---
+
+prey_level: 2
+predator_level: 4
+agent9 in circle
+Capturing count: 3698
+Captured count: 1191
+Capturing-to-Captured ratio: 3.105
+Hung count: 111
+correct_prey_estimation_rate: 0.055
+correct_predator_estimation_rate: 0.543
+--- 74.32 seconds ---
+
+prey_level: 2
+predator_level: 5
+agent9 in circle
+Capturing count: 3683
+Captured count: 1192
+Capturing-to-Captured ratio: 3.090
+Hung count: 125
+correct_prey_estimation_rate: 0.054
+correct_predator_estimation_rate: 0.543
+--- 74.67 seconds ---
+
+prey_level: 3
+predator_level: 0
+agent9 in circle
+Capturing count: 3557
+Captured count: 1352
+Capturing-to-Captured ratio: 2.631
+Hung count: 91
+correct_prey_estimation_rate: 0.054
+correct_predator_estimation_rate: 0.545
+--- 67.51 seconds ---
+
+prey_level: 3
+predator_level: 1
+agent9 in circle
+Capturing count: 3567
+Captured count: 1361
+Capturing-to-Captured ratio: 2.621
+Hung count: 72
+correct_prey_estimation_rate: 0.056
+correct_predator_estimation_rate: 0.540
+--- 71.00 seconds ---
+
+prey_level: 3
+predator_level: 2
+agent9 in circle
+Capturing count: 3717
+Captured count: 1159
+Capturing-to-Captured ratio: 3.207
+Hung count: 124
+correct_prey_estimation_rate: 0.057
+correct_predator_estimation_rate: 0.546
+--- 73.27 seconds ---
+
+prey_level: 3
+predator_level: 3
+agent9 in circle
+Capturing count: 3781
+Captured count: 1135
+Capturing-to-Captured ratio: 3.331
+Hung count: 84
+correct_prey_estimation_rate: 0.055
+correct_predator_estimation_rate: 0.546
+--- 72.78 seconds ---
+
+prey_level: 3
+predator_level: 4
+agent9 in circle
+Capturing count: 3740
+Captured count: 1138
+Capturing-to-Captured ratio: 3.286
+Hung count: 122
+correct_prey_estimation_rate: 0.055
+correct_predator_estimation_rate: 0.542
+--- 75.48 seconds ---
+
+prey_level: 3
+predator_level: 5
+agent9 in circle
+Capturing count: 3699
+Captured count: 1171
+Capturing-to-Captured ratio: 3.159
+Hung count: 130
+correct_prey_estimation_rate: 0.056
+correct_predator_estimation_rate: 0.541
+--- 74.91 seconds ---
+
+prey_level: 4
+predator_level: 0
+agent9 in circle
+Capturing count: 3631
+Captured count: 1284
+Capturing-to-Captured ratio: 2.828
+Hung count: 85
+correct_prey_estimation_rate: 0.057
+correct_predator_estimation_rate: 0.541
+--- 69.71 seconds ---
+
+prey_level: 4
+predator_level: 1
+agent9 in circle
+Capturing count: 3634
+Captured count: 1278
+Capturing-to-Captured ratio: 2.844
+Hung count: 88
+correct_prey_estimation_rate: 0.056
+correct_predator_estimation_rate: 0.545
+--- 72.76 seconds ---
+
+prey_level: 4
+predator_level: 2
+agent9 in circle
+Capturing count: 3721
+Captured count: 1179
+Capturing-to-Captured ratio: 3.156
+Hung count: 100
+correct_prey_estimation_rate: 0.058
+correct_predator_estimation_rate: 0.543
+--- 72.42 seconds ---
+
+prey_level: 4
+predator_level: 3
+agent9 in circle
+Capturing count: 3733
+Captured count: 1156
+Capturing-to-Captured ratio: 3.229
+Hung count: 111
+correct_prey_estimation_rate: 0.055
+correct_predator_estimation_rate: 0.543
+--- 73.89 seconds ---
+
+prey_level: 4
+predator_level: 4
+agent9 in circle
+Capturing count: 3698
+Captured count: 1187
+Capturing-to-Captured ratio: 3.115
+Hung count: 115
+correct_prey_estimation_rate: 0.056
+correct_predator_estimation_rate: 0.540
+--- 75.13 seconds ---
+
+prey_level: 4
+predator_level: 5
+agent9 in circle
+Capturing count: 3697
+Captured count: 1197
+Capturing-to-Captured ratio: 3.089
+Hung count: 106
+correct_prey_estimation_rate: 0.057
+correct_predator_estimation_rate: 0.542
+--- 76.79 seconds ---
+
+prey_level: 5
+predator_level: 0
+agent9 in circle
+Capturing count: 3647
+Captured count: 1260
+Capturing-to-Captured ratio: 2.894
+Hung count: 93
+correct_prey_estimation_rate: 0.057
+correct_predator_estimation_rate: 0.543
+--- 73.71 seconds ---
+
+prey_level: 5
+predator_level: 1
+agent9 in circle
+Capturing count: 3693
+Captured count: 1206
+Capturing-to-Captured ratio: 3.062
+Hung count: 101
+correct_prey_estimation_rate: 0.058
+correct_predator_estimation_rate: 0.540
+--- 73.43 seconds ---
+
+prey_level: 5
+predator_level: 2
+agent9 in circle
+Capturing count: 3742
+Captured count: 1139
+Capturing-to-Captured ratio: 3.285
+Hung count: 119
+Survey rate: 0.000
+correct_prey_estimation_rate: 0.056
+correct_predator_estimation_rate: 0.542
+--- 73.43 seconds ---
+
+prey_level: 5
+predator_level: 3
+agent9 in circle
+Capturing count: 3740
+Captured count: 1144
+Capturing-to-Captured ratio: 3.269
+Hung count: 116
+Survey rate: 0.000
+correct_prey_estimation_rate: 0.056
+correct_predator_estimation_rate: 0.544
+--- 76.88 seconds ---
+
+prey_level: 5
+predator_level: 4
+agent9 in circle
+Capturing count: 3748
+Captured count: 1132
+Capturing-to-Captured ratio: 3.311
+Hung count: 120
+Survey rate: 0.000
+correct_prey_estimation_rate: 0.055
+correct_predator_estimation_rate: 0.541
+--- 78.42 seconds ---
+
+prey_level: 5
+predator_level: 5
+agent9 in circle
+Capturing count: 3726
+Captured count: 1166
+Capturing-to-Captured ratio: 3.196
+Hung count: 108
+Survey rate: 0.000
+correct_prey_estimation_rate: 0.055
+correct_predator_estimation_rate: 0.540
+--- 78.44 seconds ---

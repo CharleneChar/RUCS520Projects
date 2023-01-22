@@ -1,0 +1,5 @@
+agent_v_partial in circle
+Avg Steps taken to catch prey: 17.743
+model accuracy (in terms of having mse): 0.648
+--- 3015.63 seconds ---
+All Avg Steps taken to catch prey of agent_v_partial: 17.743
