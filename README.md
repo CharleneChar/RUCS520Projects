@@ -27,7 +27,7 @@ This repository holds my programming projects done during the period of Rutgers 
 
 * Better, Smarter, Faster
 
-  It has the same objective as that in The Circle of Life (which helps the agent find path to capture the prey and avoid being caught by the predator under different constraints) except that the path needs to be the shortest. The project not only implements value iteration for Bellman's equation, but also trains models including linear regression model and neural network model to achieve the above objective.
+  It has the same objective as that in The Circle of Life (which helps the agent find path to capture the prey and avoid being caught by the predator under different constraints) except that the path needs to be the shortest. The project not only implements value iteration for Bellman's Equations, but also trains models including linear regression model and neural network model to achieve the above objective.
 
   To see the process and result,
     1. Clone this repository (PS you may follow the command below) \
