@@ -17,7 +17,7 @@ This repository holds my programming projects done during the period of Rutgers 
 
 * The Circle of Life
 
-  It helps the agent find path to capture the prey and avoid being caught by the predator under different constraints (such as the predator's location or the prey's location is unknown to the agent) by simulating and analyzing different strategies which implement filtering and predicting with a Markov model where both transition model and observed model are known.
+  It helps the agent find path to capture the prey and avoid being caught by the predator in a graph of nodes under different constraints (such as the predator's location or the prey's location is unknown to the agent) by simulating and analyzing different strategies which implement filtering and predicting with a Markov model where both transition model and observed model are known.
   
   To see the process and result,
     1. Clone this repository (PS you may follow the command below) \
@@ -27,7 +27,7 @@ This repository holds my programming projects done during the period of Rutgers 
 
 * Better, Smarter, Faster
 
-  It has the same objective as that in The Circle of Life (which helps the agent find path to capture the prey and avoid being caught by the predator under different constraints) except that the path needs to be the shortest. The project not only implements value iteration for Bellman's Equations, but also trains models including linear regression model and neural network model to achieve the above objective.
+  It has the same objective as that in The Circle of Life (which helps the agent find path to capture the prey and avoid being caught by the predator in a graph of nodes under different constraints) except that the path needs to be the shortest. The project not only implements value iteration for Bellman's Equations, but also trains models including linear regression model and neural network model to achieve the above objective.
 
   To see the process and result,
     1. Clone this repository (PS you may follow the command below) \
