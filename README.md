@@ -7,7 +7,7 @@ This repository holds my programming projects done during the period of Rutgers 
 
 * Ghosts in the Maze 
 
-  It helps the agent find path to walk out of a specified-sized maze full of a specified number of ghosts by simulating and analyzing different strategies which implement search algorithms including A^* search algorithm.
+  It helps the agent find path to walk out of a specified-sized maze full of a specified number of ghosts by simulating and analyzing different strategies which implement search algorithms including A* search algorithm.
   
   To see the process and result,
     1. Clone this repository (PS you may follow the command below) \
